@@ -1,3 +1,3 @@
 # 7seg
 
-Prosty kod obsugujący wyświetlacz 7-segementowy. Działa jak licznik.
+Prosty kod obsugujący wyświetlacz 8-segementowy. Działa jak licznik.
